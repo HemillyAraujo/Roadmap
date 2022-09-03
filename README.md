@@ -108,15 +108,15 @@ Dever ter a capacidade de expliocar comandos AD-HOC e também ser capaz de utili
 - [ ] Concluir o path de Python do [PluralSight](https://app.pluralsight.com/paths/skills/python)
 - [ ] Melhorar suas skills no path anterior em 10%am
 
-### Git
+### Git 
 
 - [ ] [Conceitos básicos](https://en.wikipedia.org/wiki/Git)
-	* O que é
-	* Commits
+	* [X] O que é 
+	* Commits 
 	* Branches
 	* Push
 	* Merge
-	* Repositórios
+	* [X] Repositórios
 	* [Comandos](https://try.github.io/levels/1/challenges/1)
 		* push
 		* fetch
